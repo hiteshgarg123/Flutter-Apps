@@ -1,12 +1,12 @@
-# hello_world
+# Hello World 👋
 
 A new Flutter project.
 
-## Getting Started 🚀
+## Getting Started 🔥
 
 - Clone the repo
-- Install the dependicies
-- Run it
+- Install the dependicies ( _flutter_ )
+- Run it ( _flutter run_ )
 
 ## Preview 📸
 

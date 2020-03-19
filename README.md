@@ -1,6 +1,6 @@
 # Hello World 👋
 
-A new Flutter project.
+A Hello World project in Flutter.
 
 ## Getting Started 🔥
 
